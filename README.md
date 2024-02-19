@@ -1,5 +1,7 @@
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png "『Home/Main entrance』page")
 
+* 中文「自述文档」㊥ 👉 [本科_活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
+
 # Static webpages (Crack password :point_right: log in Xanadu)
 
 ## About
