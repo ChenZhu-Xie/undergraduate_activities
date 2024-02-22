@@ -25,12 +25,12 @@
 
 !![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png "3D logo: ETP & NEU")
 
-## Inplementation
+<!-- ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  
 2. Explore freely :point_right: until you decrypt the password :point_right: and unlock the hidden webpages.
     * Solve the riddle! Or you'll be stuck here: in the middle of nowhere forever!
 3. PS: Due to its age (2014_05), page music may not be playable,  
-    * and the background image size cannot adapt to the browser window size.
+    * and the background image size cannot adapt to the browser window size. -->
 
 ## History
 * This project 👉 [undergraduate activities](https://github.com/ChenZhu-Xie/undergraduate_activities) was built

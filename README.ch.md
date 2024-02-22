@@ -27,6 +27,12 @@
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
 ![fig](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/ETP_&_NEU.png "3D logo: ETP & NEU")
 
+<!-- ## 实施
+1. 演讲 ppt 含视频
+    * 要播放视频，需要进入「Presentations」目录下的「子目录」中查看 ppt
+2. 学业水平 含「随时间演化」的切片/断面
+    * 需要进入「Total_Grades」文件夹的「子文件夹」中查看 相关文件 -->
+
 ## 历史
 * 该仓库 👉 [本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
     * （个人时间）由 18 - 22 岁小谢
