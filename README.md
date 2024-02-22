@@ -23,7 +23,7 @@
 * This repo can be merged with the repo 👉 [undergraduate courses](https://github.com/ChenZhu-Xie/undergraduate_courses), without generating any 「serial number conflicts」
     * The two together「fully described」my college career「as an undergraduate」
 
-!![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png "3D logo: ETP & NEU")
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png "3D logo: ETP & NEU")
 
 <!-- ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  
