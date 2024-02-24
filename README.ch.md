@@ -5,8 +5,10 @@
 
 ## 关于
 * 该仓库 👉 [本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
-    * 包含竞赛 ⊃ 👉 [星尘[弹弹堂](https://www.ddtank.com)「全平台辅助」相关竞赛们](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/07__3.2__Self_Competitions)
-        * 孵化工程 ⊶ 👉 [星尘[弹弹堂](https://www.ddtank.com)「全平台辅助」](https://gitee.com/ChenZhu-Xie/Stardust_DDTank)
+    <!-- * 包含竞赛 ⊃ 👉 [星尘[弹弹堂](https://www.ddtank.com)「全平台辅助」相关竞赛们](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/07__3.2__Self_Competitions) -->
+    * 包含竞赛 ⊃ 👉 [星尘弹弹堂「全平台辅助」相关竞赛们](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/07__3.2__Self_Competitions)
+        <!-- * 孵化工程 ⊶ 👉 [星尘[弹弹堂](https://www.ddtank.com)「全平台辅助」](https://gitee.com/ChenZhu-Xie/Stardust_DDTank) -->
+        * 孵化工程 ⊶ 👉 [星尘弹弹堂「全平台辅助」](https://gitee.com/ChenZhu-Xie/Stardust_DDTank)
             * 源自探索 ⊶ 👉 [「物理」与「人类未来」结课演讲](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/05__2.3__Courses_Presentations/2__2.2__「Physics_and_the_future_of_mankind」_Speach__1.0_year)
     * 包含挂机软件 ⊶ 👉 [「决斗之城」挂机助手](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations/5__8.0__Hanging_Assist__for__Dueling_City__4.0_year)
         * 扩展至仓库 ⊂ 👉[模拟器端「决斗之城」挂机助手](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)

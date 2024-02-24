@@ -4,8 +4,10 @@
 
 ## About
 * This repo 👉 [undergraduate activitiess](https://github.com/ChenZhu-Xie/undergraduate_activities)
-    * Contains competitions ⊃ 👉 [Cometitions with project Stardust [DDTank](https://www.ddtank.com)](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/07__3.2__Self_Competitions)
-        * Hatch out project ⊶ 👉 [Stardust [DDTank](https://www.ddtank.com) Multi-terminal Auxiliary-tools](https://github.com/ChenZhu-Xie/Stardust_DDTank)
+    <!-- * Contains competitions ⊃ 👉 [Cometitions with project Stardust [DDTank](https://www.ddtank.com)](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/07__3.2__Self_Competitions) -->
+    * Contains competitions ⊃ 👉 [Cometitions with project Stardust DDTank](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/07__3.2__Self_Competitions)
+        <!-- * Hatch out project ⊶ 👉 [Stardust [DDTank](https://www.ddtank.com) Multi-terminal Auxiliary-tools](https://github.com/ChenZhu-Xie/Stardust_DDTank) -->
+        * Hatch out project ⊶ 👉 [Stardust-DDTank Multi-terminal Auxiliary-tools](https://github.com/ChenZhu-Xie/Stardust_DDTank)
             * Initialized by dive ⊶ 👉 [Presentation on course「physics and the future of mankind」](https://github.com/ChenZhu-Xie/undergraduate_courses/tree/master/05__2.3__Courses_Presentations/2__2.2__「Physics_and_the_future_of_mankind」_Speach__1.0_year)
     * Contains hang-up software ⊶ 👉[「Hang-up Assist」for Game「Dueling City」](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations/5__8.0__Hanging_Assist__for__Dueling_City__4.0_year)
         * Expanded to repo ⊂ 👉[The emulator end「Hang-up Assist」for Game「Dueling City」](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
