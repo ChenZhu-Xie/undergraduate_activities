@@ -17,7 +17,14 @@
     * Contains project ⊋ 👉 [3D-printed logo: ETP](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__%E6%B2%88%E5%8C%97%E6%96%B0%E5%8C%BA__1.5_year)
         * Originates from ≺ 👉 [High school graduate's T-shirt back: 3D-logo ETP](https://github.com/ChenZhu-Xie/senior-high-school_activities/tree/master/3__6.1__ETP_3D_logo_project__3.0_year)
             * Corresponding career ⊂ 👉 [senior-high-school activities](https://github.com/ChenZhu-Xie/senior-high-school_activities)
+    * Including artworks ⊋ 👉 [「Homemade gift」for「my love」](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities)
+        * [「Infinite flipping」origami「both inside and outside」Envelope No.5](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities/1__7.1__寄给「小车」的「折纸作品」作为「生日礼物」__3.5_year)
+        * [「3 After-Effects template synthesis」video after「Undergraduate graduation」](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities/2__8.1__「读研前暑假」与「小车」的「第二次见面」__4.0_year)
 * 中文「自述文档」㊥ 👉 [本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
+
+[![The Calling「She & Me」](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/投影仪的妙用.png)](https://youtu.be/utkSjlCVySE "「The Calling」She_&_Me")
+
+https://youtu.be/utkSjlCVySE
 
 ## Description
 * Personal creations and competitions during undergraduate studies; Roommate activities; Off campus internships and volunteer activities
