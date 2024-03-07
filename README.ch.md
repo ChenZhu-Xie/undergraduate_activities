@@ -24,7 +24,7 @@
 * English「README」ⓔ 👉 [undergraduate_activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
 
 <!-- [![The Calling「She & Me」](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/投影仪的妙用.png)](https://youtu.be/utkSjlCVySE "「The Calling」She_&_Me") -->
-[![「The Calling」她与我](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/投影仪的妙用.png)](https://www.bilibili.com/video/BV1Ay421B7a4 "「The Calling」她与我")
+[![「The Calling」她与我](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/投影仪的妙用.png)](https://www.bilibili.com/BV1F54y1v7qg "「The Calling」她与我")
 
 ## 介绍
 * 大学本科时期 的 个人创造、竞赛；室友活动；校外实习、志愿活动
