@@ -36,7 +36,7 @@
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
 <!-- ![fig](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
-[![「5 号信封」内外双「无限翻」折纸](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/09__4.2__Roommate_♀_'s_Activities/1__7.1__寄给「小车」的「折纸作品」作为「生日礼物」__3.5_year.jpg)](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_%E2%99%80_'s_Activities "「5 号信封」内外双「无限翻」折纸")
+[![「5 号信封」内外双「无限翻」折纸](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/09__4.2__Roommate_♀_'s_Activities/love.png)](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_%E2%99%80_'s_Activities "「5 号信封」内外双「无限翻」折纸")
 
 <!-- ## 实施
 1. 演讲 ppt 含视频
