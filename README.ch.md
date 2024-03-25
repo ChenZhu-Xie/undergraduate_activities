@@ -11,7 +11,7 @@
         <!-- * 孵化工程 ⊶ 👉 [星尘[弹弹堂](https://www.ddtank.com)「全平台辅助」](https://gitee.com/ChenZhu-Xie/Stardust_DDTank) -->
         * 孵化工程 ⊶ 👉 [星尘弹弹堂「全平台辅助」](https://gitee.com/ChenZhu-Xie/Stardust_DDTank)
             * 源自探索 ⊶ 👉 [「物理」与「人类未来」结课演讲](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/05__2.3__Courses_Presentations/2__2.2__「Physics_and_the_future_of_mankind」_Speach__1.0_year)
-    * 包含挂机软件 ⊶ 👉 [「决斗之城」挂机助手](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations/5__8.0__Hanging_Assist__for__Dueling_City__4.0_year)
+    * 包含挂机软件 ⊶ 👉[「决斗之城」挂机助手](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations/6__8.2__Hanging_Assist__for__Dueling_City__4.0_year)
         * 扩展至仓库 ⊂ 👉[模拟器端「决斗之城」挂机助手](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
     * 包含书籍 ⊋ 👉 [三本 电子书](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
         * 动机源于 ≺ 👉 [手写书籍 数字化工程](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/tree/master/4__6.2__Books_digitalization_project__3.0_year)
@@ -50,7 +50,8 @@
     * （世界时间）在 2016 - 2020 年的
     * （个人阶段）大学本科 创建的
 
-[![3D logo: ETP & NEU](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/ETP_&_NEU.png)](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__沈北新区__1.5_year "3D logo: ETP & NEU")
+<!-- [![3D logo: ETP & NEU](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/ETP_&_NEU.png)](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__沈北新区__1.5_year "3D logo: ETP & NEU") -->
+[![「决斗之城」挂机助手](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/决斗之城.png)](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City "「决斗之城」挂机助手")
 
 <!-- ## 软件架构
 软件架构说明

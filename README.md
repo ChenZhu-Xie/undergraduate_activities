@@ -9,7 +9,7 @@
         <!-- * Hatch out project ⊶ 👉 [Stardust [DDTank](https://www.ddtank.com) Multi-terminal Auxiliary-tools](https://github.com/ChenZhu-Xie/Stardust_DDTank) -->
         * Hatch out project ⊶ 👉 [Stardust-DDTank Multi-terminal Auxiliary-tools](https://github.com/ChenZhu-Xie/Stardust_DDTank)
             * Initialized by dive ⊶ 👉 [Presentation on course「physics and the future of mankind」](https://github.com/ChenZhu-Xie/undergraduate_courses/tree/master/05__2.3__Courses_Presentations/2__2.2__「Physics_and_the_future_of_mankind」_Speach__1.0_year)
-    * Contains hang-up software ⊶ 👉[「Hang-up Assist」for Game「Dueling City」](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations/5__8.0__Hanging_Assist__for__Dueling_City__4.0_year)
+    * Contains hang-up software ⊶ 👉[「Hang-up Assist」for Game「Dueling City」](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations/6__8.2__Hanging_Assist__for__Dueling_City__4.0_year)
         * Expanded to repo ⊂ 👉[The emulator end「Hang-up Assist」for Game「Dueling City」](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City)
     * Contains books ⊋ 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
         * Originates from ≺ 👉 [Books digitalization project](https://github.com/ChenZhu-Xie/senior-high-school_activities/tree/master/4__6.2__Books_digitalization_project__3.0_year)
@@ -47,7 +47,8 @@
     * (World time) during 2016 - 2020
     * (Personal stage) when I was in college as an undergraduate
 
-[![3D logo: ETP & NEU](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png)](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__沈北新区__1.5_year "3D logo: ETP & NEU")
+<!-- [![3D logo: ETP & NEU](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png)](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__沈北新区__1.5_year "3D logo: ETP & NEU") -->
+[![「Hang-up Assist」for Game「Dueling City」](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/决斗之城.png)](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City "「Hang-up Assist」for Game「Dueling City」")
 
 <!-- ## Software Architecture
 Software architecture description
