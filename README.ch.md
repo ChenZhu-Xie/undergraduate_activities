@@ -1,6 +1,6 @@
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/东北三省青博会·项目展览.jpg "Northeast Three Provinces Youth Expo · Project Exhibition") -->
 <!-- ![fig](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/东北三省青博会·项目展览.jpg "东北三省青博会·项目展览") -->
-[![东北三省青博会·项目展览](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/东北三省青博会·项目展览.jpg)](https://gitee.com/ChenZhu-Xie/Stardust_DDTank "东北三省青博会·项目展览")
+[![东北三省青博会·项目展览](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/东北三省青博会_项目展览.jpg)](https://gitee.com/ChenZhu-Xie/Stardust_DDTank "东北三省青博会·项目展览")
 
 # 本科 个人活动
 
