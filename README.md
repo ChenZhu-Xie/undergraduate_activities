@@ -32,7 +32,7 @@
     * The two together「fully described」my college career「as an undergraduate」
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
-[![「Infinite flipping」origami「both inside and outside」Envelope No.5](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities/love.png)](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_%E2%99%80_'s_Activities "「Infinite flipping」origami「both inside and outside」Envelope No.5")
+[![「Infinite flipping」origami「both inside and outside」Envelope No.5](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/img/love.png)](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_%E2%99%80_'s_Activities "「Infinite flipping」origami「both inside and outside」Envelope No.5")
 
 <!-- ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  
