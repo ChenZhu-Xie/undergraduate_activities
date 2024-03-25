@@ -1,6 +1,8 @@
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/东北三省青博会·项目展览.jpg "Northeast Three Provinces Youth Expo · Project Exhibition") -->
 ![fig](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/东北三省青博会·项目展览.jpg "东北三省青博会·项目展览")
 
+[![东北三省青博会·项目展览](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/东北三省青博会·项目展览.jpg)](https://gitee.com/ChenZhu-Xie/Stardust_DDTank "东北三省青博会·项目展览")
+
 # 本科 个人活动
 
 ## 关于
@@ -19,8 +21,8 @@
         * 动机源于 ≺ 👉 [高中毕业 衬衫背面 3D logo：ETP](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/tree/master/3__6.1__ETP_3D_logo_project__3.0_year)
             * 属于生涯 ⊂ 👉 [高中 活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
     * 包含创作 ⊋ 👉 [「自制礼物」赠予「我的爱人」](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities)
-        * [「5 号信封」内外双「无限翻」折纸](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities/1__7.1__寄给「小车」的「折纸作品」作为「生日礼物」__3.5_year)
-        * [「3 个 AE 模板合成」读研暑假「分别视频」](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities/2__8.1__「读研前暑假」与「小车」的「第二次见面」__4.0_year)
+        * 👉[「5 号信封」内外双「无限翻」折纸](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities/1__7.1__寄给「小车」的「折纸作品」作为「生日礼物」__3.5_year)
+        * 👉[「3 个 AE 模板合成」读研暑假「分别视频」](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities/2__8.1__「读研前暑假」与「小车」的「第二次见面」__4.0_year)
 * English「README」ⓔ 👉 [undergraduate_activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
 
 <!-- [![The Calling「She & Me」](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/投影仪的妙用.png)](https://youtu.be/utkSjlCVySE "「The Calling」She_&_Me") -->

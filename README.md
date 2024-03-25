@@ -1,9 +1,9 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/东北三省青博会·项目展览.jpg "Northeast Three Provinces Youth Expo · Project Exhibition")
+[![Northeast Three Provinces Youth Expo · Project Exhibition](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/东北三省青博会·项目展览.jpg)](https://github.com/ChenZhu-Xie/Stardust_DDTank "Northeast Three Provinces Youth Expo · Project Exhibition")
 
 # Undergraduate Personal Activities
 
 ## About
-* This repo 👉 [undergraduate activitiess](https://github.com/ChenZhu-Xie/undergraduate_activities)
+* This repo 👉 [undergraduate activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
     <!-- * Contains competitions ⊃ 👉 [Cometitions with project Stardust [DDTank](https://www.ddtank.com)](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/07__3.2__Self_Competitions) -->
     * Contains competitions ⊃ 👉 [Cometitions with project Stardust DDTank](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/07__3.2__Self_Competitions)
         <!-- * Hatch out project ⊶ 👉 [Stardust [DDTank](https://www.ddtank.com) Multi-terminal Auxiliary-tools](https://github.com/ChenZhu-Xie/Stardust_DDTank) -->
@@ -18,8 +18,8 @@
         * Originates from ≺ 👉 [High school graduate's T-shirt back: 3D-logo ETP](https://github.com/ChenZhu-Xie/senior-high-school_activities/tree/master/3__6.1__ETP_3D_logo_project__3.0_year)
             * Corresponding career ⊂ 👉 [senior-high-school activities](https://github.com/ChenZhu-Xie/senior-high-school_activities)
     * Including artworks ⊋ 👉 [「Homemade gift」for「my love」](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities)
-        * [「Infinite flipping」origami「both inside and outside」Envelope No.5](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities/1__7.1__寄给「小车」的「折纸作品」作为「生日礼物」__3.5_year)
-        * [「3 After-Effects template synthesis」video after「Undergraduate graduation」](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities/2__8.1__「读研前暑假」与「小车」的「第二次见面」__4.0_year)
+        * 👉[「Infinite flipping」origami「both inside and outside」Envelope No.5](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities/1__7.1__寄给「小车」的「折纸作品」作为「生日礼物」__3.5_year)
+        * 👉 [Synthesized video「using 3 After Effects templates」after「Undergraduate graduation」](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities/2__8.1__「读研前暑假」与「小车」的「第二次见面」__4.0_year)
 * 中文「自述文档」㊥ 👉 [本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
 
 [![The Calling「She & Me」](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/投影仪的妙用.png)](https://youtu.be/utkSjlCVySE "「The Calling」She_&_Me")
