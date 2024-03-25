@@ -24,8 +24,6 @@
 
 [![The Calling「She & Me」](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/投影仪的妙用.png)](https://youtu.be/utkSjlCVySE "「The Calling」She_&_Me")
 
-https://youtu.be/utkSjlCVySE
-
 ## Description
 * Personal creations and competitions during undergraduate studies; Roommate activities; Off campus internships and volunteer activities
     * 「Important content」is placed as「files」in the「primary directory」
