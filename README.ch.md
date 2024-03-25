@@ -1,6 +1,6 @@
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/东北三省青博会·项目展览.jpg "Northeast Three Provinces Youth Expo · Project Exhibition") -->
 <!-- ![fig](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/东北三省青博会·项目展览.jpg "东北三省青博会·项目展览") -->
-[![东北三省青博会·项目展览](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/东北三省青博会_项目展览.jpg)](https://gitee.com/ChenZhu-Xie/Stardust_DDTank "东北三省青博会·项目展览")
+[![东北三省青博会·项目展览](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/东北三省青博会_项目展览.png)](https://gitee.com/ChenZhu-Xie/Stardust_DDTank "东北三省青博会·项目展览")
 
 # 本科 个人活动
 
@@ -35,7 +35,8 @@
     * 二者「完整地描述」了「我的大学 本科生涯」
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
-![fig](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/ETP_&_NEU.png "3D logo: ETP & NEU")
+<!-- ![fig](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
+[![「5 号信封」内外双「无限翻」折纸](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/09__4.2__Roommate_♀_'s_Activities/1__7.1__寄给「小车」的「折纸作品」作为「生日礼物」__3.5_year.jpg)](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_%E2%99%80_'s_Activities "「5 号信封」内外双「无限翻」折纸")
 
 <!-- ## 实施
 1. 演讲 ppt 含视频
@@ -48,6 +49,8 @@
     * （个人时间）由 18 - 22 岁小谢
     * （世界时间）在 2016 - 2020 年的
     * （个人阶段）大学本科 创建的
+
+[![3D logo: ETP & NEU](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/ETP_&_NEU.png)](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__沈北新区__1.5_year "3D logo: ETP & NEU")
 
 <!-- ## 软件架构
 软件架构说明

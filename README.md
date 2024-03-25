@@ -1,4 +1,4 @@
-[![Northeast Three Provinces Youth Expo · Project Exhibition](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/东北三省青博会_项目展览.jpg)](https://github.com/ChenZhu-Xie/Stardust_DDTank "Northeast Three Provinces Youth Expo · Project Exhibition")
+[![Northeast Three Provinces Youth Expo · Project Exhibition](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/东北三省青博会_项目展览.png)](https://github.com/ChenZhu-Xie/Stardust_DDTank "Northeast Three Provinces Youth Expo · Project Exhibition")
 
 # Undergraduate Personal Activities
 
@@ -31,7 +31,8 @@
 * This repo can be merged with the repo 👉 [undergraduate courses](https://github.com/ChenZhu-Xie/undergraduate_courses), without generating any 「serial number conflicts」
     * The two together「fully described」my college career「as an undergraduate」
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png "3D logo: ETP & NEU")
+<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
+[![「Infinite flipping」origami「both inside and outside」Envelope No.5](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities/1__7.1__寄给「小车」的「折纸作品」作为「生日礼物」__3.5_year.jpg)](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_%E2%99%80_'s_Activities "「Infinite flipping」origami「both inside and outside」Envelope No.5")
 
 <!-- ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  
@@ -45,6 +46,8 @@
     * (Personal time) by 18~22-year-old little Xie
     * (World time) during 2016 - 2020
     * (Personal stage) when I was in college as an undergraduate
+
+[![3D logo: ETP & NEU](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png)](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__沈北新区__1.5_year "3D logo: ETP & NEU")
 
 <!-- ## Software Architecture
 Software architecture description
