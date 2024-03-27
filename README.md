@@ -1,4 +1,4 @@
-[![Northeast Three Provinces Youth Expo · Project Exhibition - Github Stardust_DDTank](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/东北三省青博会_项目展览.png)](https://github.com/ChenZhu-Xie/Stardust_DDTank "Northeast Three Provinces Youth Expo · Project Exhibition - Github Stardust_DDTank")
+[![Northeast Three Provinces Youth Expo · Project Exhibition - Github repo: Stardust_DDTank](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/东北三省青博会_项目展览.png)](https://github.com/ChenZhu-Xie/Stardust_DDTank "Northeast Three Provinces Youth Expo · Project Exhibition - Github repo: Stardust_DDTank")
 
 # Undergraduate Personal Activities
 
