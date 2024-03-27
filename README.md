@@ -1,4 +1,4 @@
-[![Northeast Three Provinces Youth Expo · Project Exhibition](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/东北三省青博会_项目展览.png)](https://github.com/ChenZhu-Xie/Stardust_DDTank "Northeast Three Provinces Youth Expo · Project Exhibition")
+[![Northeast Three Provinces Youth Expo · Project Exhibition - Github Stardust_DDTank](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/东北三省青博会_项目展览.png)](https://github.com/ChenZhu-Xie/Stardust_DDTank "Northeast Three Provinces Youth Expo · Project Exhibition - Github Stardust_DDTank")
 
 # Undergraduate Personal Activities
 
@@ -22,7 +22,7 @@
         * 👉 [Synthesized video「using 3 After Effects templates」after「Undergraduate graduation」](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_♀_'s_Activities/2__8.1__「读研前暑假」与「小车」的「第二次见面」__4.0_year)
 * 中文「自述文档」㊥ 👉 [本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
 
-[![The Calling「She & Me」](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/投影仪的妙用.png)](https://youtu.be/utkSjlCVySE "「The Calling」She_&_Me")
+[![The Calling「She & Me」.mp4](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/投影仪的妙用.png)](https://youtu.be/utkSjlCVySE "「The Calling」She_&_Me.mp4")
 
 ## Description
 * Personal creations and competitions during undergraduate studies; Roommate activities; Off campus internships and volunteer activities
@@ -48,7 +48,7 @@
     * (Personal stage) when I was in college as an undergraduate
 
 <!-- [![3D logo: ETP & NEU](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png)](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__沈北新区__1.5_year "3D logo: ETP & NEU") -->
-[![「Hang-up Assist」for Game「Dueling City」](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/决斗之城.png)](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City "「Hang-up Assist」for Game「Dueling City」")
+[![「Hang-up Assist」for Game「Dueling City」- Github repo](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/决斗之城.png)](https://github.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City "「Hang-up Assist」for Game「Dueling City」- Github repo")
 
 <!-- ## Software Architecture
 Software architecture description

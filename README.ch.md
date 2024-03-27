@@ -1,6 +1,6 @@
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/东北三省青博会·项目展览.jpg "Northeast Three Provinces Youth Expo · Project Exhibition") -->
 <!-- ![fig](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/东北三省青博会·项目展览.jpg "东北三省青博会·项目展览") -->
-[![东北三省青博会·项目展览](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/东北三省青博会_项目展览.png)](https://gitee.com/ChenZhu-Xie/Stardust_DDTank "东北三省青博会·项目展览")
+[![东北三省青博会·项目展览 - Github 星尘弹弹堂](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/东北三省青博会_项目展览.png)](https://gitee.com/ChenZhu-Xie/Stardust_DDTank "东北三省青博会·项目展览 - Github 星尘弹弹堂")
 
 # 本科 个人活动
 
@@ -25,7 +25,7 @@
 * English「README」ⓔ 👉 [undergraduate_activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
 
 <!-- [![The Calling「She & Me」](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/投影仪的妙用.png)](https://youtu.be/utkSjlCVySE "「The Calling」She_&_Me") -->
-[![「The Calling」她与我](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/投影仪的妙用.png)](https://www.bilibili.com/BV1F54y1v7qg "「The Calling」她与我")
+[![「The Calling」她与我.mp4](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/投影仪的妙用.png)](https://www.bilibili.com/BV1F54y1v7qg "「The Calling」她与我.mp4")
 
 ## 介绍
 * 大学本科时期 的 个人创造、竞赛；室友活动；校外实习、志愿活动
@@ -51,7 +51,7 @@
     * （个人阶段）大学本科 创建的
 
 <!-- [![3D logo: ETP & NEU](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/ETP_&_NEU.png)](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__沈北新区__1.5_year "3D logo: ETP & NEU") -->
-[![「决斗之城」挂机助手](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/决斗之城.png)](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City "「决斗之城」挂机助手")
+[![「决斗之城」挂机助手 - Gitee 仓库](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/决斗之城.png)](https://gitee.com/ChenZhu-Xie/Hanging_Assist__for__Dueling_City "「决斗之城」挂机助手 - Gitee 仓库")
 
 <!-- ## 软件架构
 软件架构说明
