@@ -4,6 +4,8 @@
 
 ## About
 * This repo 👉 [undergraduate activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
+    * can be merged with the repo 👉 [undergraduate courses](https://github.com/ChenZhu-Xie/undergraduate_courses), without generating any「serial number conflicts」
+        * The 2 repos together「fully described」my college career「as an undergraduate」
     <!-- * Contains competitions ⊃ 👉 [Cometitions with project Stardust [DDTank](https://www.ddtank.com)](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/07__3.2__Self_Competitions) -->
     * Contains competitions ⊃ 👉 [Cometitions with project Stardust DDTank](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/07__3.2__Self_Competitions)
         <!-- * Hatch out project ⊶ 👉 [Stardust [DDTank](https://www.ddtank.com) Multi-terminal Auxiliary-tools](https://github.com/ChenZhu-Xie/Stardust_DDTank) -->
@@ -28,8 +30,6 @@
 * Personal creations and competitions during undergraduate studies; Roommate activities; Off campus internships and volunteer activities
     * 「Important content」is placed as「files」in the「primary directory」
     * The「detailed information」of「the file」is placed in the form of「a folder」in the「secondary directory」with「the same serial number」as「the file」
-* This repo can be merged with the repo 👉 [undergraduate courses](https://github.com/ChenZhu-Xie/undergraduate_courses), without generating any 「serial number conflicts」
-    * The two together「fully described」my college career「as an undergraduate」
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
 <!-- [![「Infinite flipping」origami「both inside and outside」Envelope No.5](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/img/love.png)](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/09__4.2__Roommate_%E2%99%80_'s_Activities "「Infinite flipping」origami「both inside and outside」Envelope No.5") -->

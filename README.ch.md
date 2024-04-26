@@ -6,6 +6,8 @@
 
 ## 关于
 * 该仓库 👉 [本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
+    * 可与仓库 👉 [本科 课程](https://gitee.com/ChenZhu-Xie/undergraduate_courses) 合并的同时，不产生「序号冲突」
+        * 二者「完整地描述」了「我的大学 本科生涯」
     <!-- * 包含竞赛 ⊃ 👉 [星尘[弹弹堂](https://www.ddtank.com)「全平台辅助」相关竞赛们](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/07__3.2__Self_Competitions) -->
     * 包含竞赛 ⊃ 👉 [星尘弹弹堂「全平台辅助」相关竞赛们](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/07__3.2__Self_Competitions)
         <!-- * 孵化工程 ⊶ 👉 [星尘[弹弹堂](https://www.ddtank.com)「全平台辅助」](https://gitee.com/ChenZhu-Xie/Stardust_DDTank) -->
@@ -31,8 +33,6 @@
 * 大学本科时期 的 个人创造、竞赛；室友活动；校外实习、志愿活动
     * 「重要内容」以「文件」的形式，放在「一级目录」中
     * 「文件」的「详细信息」，以「文件夹」的形式，放在与「文件」有「相同序号」的「二级目录」中
-* 该仓库可以与仓库 👉 [本科 课程](https://gitee.com/ChenZhu-Xie/undergraduate_courses) 合并的同时，不产生「序号冲突」
-    * 二者「完整地描述」了「我的大学 本科生涯」
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/undergraduate_activities/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
 <!-- ![fig](https://gitee.com/ChenZhu-Xie/undergraduate_activities/raw/master/img/ETP_&_NEU.png "3D logo: ETP & NEU") -->
